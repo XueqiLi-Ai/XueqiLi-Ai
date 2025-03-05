@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Hello! My name is Li Xueqi, and I am a Ph.D. student in Artificial Intelligence. I warmly welcome opportunities to exchange ideas and collaborate with others. Feel free to reach out!
+
 <!--
 **XueqiLi-Ai/XueqiLi-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
