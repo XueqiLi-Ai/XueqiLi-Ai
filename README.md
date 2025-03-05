@@ -2,7 +2,7 @@
 
 ### Hello! My name is Li Xueqi, and I am a Ph.D. student in Artificial Intelligence. I warmly welcome opportunities to exchange ideas and collaborate with others. Feel free to reach out!
 
-![pic missing](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B9%8B%E6%A2%A6%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=6&spn=0&di=7466852183703552001&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1925417831%2C1535217748&os=933077496%2C1443262655&simid=1925417831%2C1535217748&adpicid=0&lpn=0&ln=1167&fr=&fmq=1741142141097_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F29381f30e924b899a90118c4c15e0a950a7b0308588c&fromurl=ippr_z2C%24qAzdH3FAzdH3Fkwthj_z%26e3Bkwt17_z%26e3Bv54AzdH3Ftpj4AzdH3F%25Em%25lC%25BA%25Ec%25ll%25Ab%25E9%25BA%25BA%25E9%25Bl%25bB%25Em%25Ad%25AmAzdH3Fmnbnllcb&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwxMiwzLDEsMiwxMyw3LDYsNSw5&lid=7467183060035638153)
+![pic missing](https://bkimg.cdn.bcebos.com/pic/29381f30e924b899a90118c4c15e0a950a7b0308588c)
 
 <!--
 **XueqiLi-Ai/XueqiLi-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
